@@ -1,5 +1,17 @@
 body{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
     color:dimgray
+}
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid wheat;
+    margin: 0 auto;
+}
+#container h1{
+    font-size: 20px;
+    text-align: center;
 }
